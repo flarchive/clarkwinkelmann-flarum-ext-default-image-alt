@@ -1,0 +1,36 @@
+{
+    "name": "clarkwinkelmann/flarum-ext-default-image-alt",
+    "description": "Sets an alt text to post images when missing",
+    "keywords": [
+        "flarum",
+        "image",
+        "alt"
+    ],
+    "type": "flarum-extension",
+    "license": "MIT",
+    "require": {
+        "flarum/core": "^1.0"
+    },
+    "authors": [
+        {
+            "name": "Clark Winkelmann",
+            "homepage": "https://clarkwinkelmann.com/",
+            "email": "clark.winkelmann@gmail.com",
+            "role": "Developer"
+        }
+    ],
+    "support": {
+        "source": "https://github.com/clarkwinkelmann/flarum-ext-default-image-alt"
+    },
+    "extra": {
+        "flarum-extension": {
+            "title": "Default Image Alt Text",
+            "category": "feature",
+            "icon": {
+                "name": "fas fa-info",
+                "backgroundColor": "#684ba6",
+                "color": "#fff"
+            }
+        }
+    }
+}
