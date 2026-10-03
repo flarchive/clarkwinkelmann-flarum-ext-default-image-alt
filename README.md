@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-default-image-alt.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-default-image-alt) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-default-image-alt).
 
-**0** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-default-image-alt/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0`
+**2** versions archived · Latest: [`1.0.1`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-default-image-alt/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2022-04-14 | `^1.0` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-default-image-alt/tree/archive/v1.0.0) |
+| `1.0.1` | 2022-04-14 | `^1.0` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-default-image-alt/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-default-image-alt.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-default-image-alt.json)
 
